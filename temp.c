@@ -16,4 +16,5 @@ int main()
     return 0;
 }
 
-/*NO MISTAKES IN THIS YAYYYYYYYYY (literally the shortest programme don't be too happy)*/
+/*NO MISTAKES IN THIS YAYYYYYYYYY (literally the shortest programme don't be too happy)
+no wait there was a mistake you forgot to write %f in the printf statement which is omg no words.*/
